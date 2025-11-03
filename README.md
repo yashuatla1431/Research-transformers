@@ -14,4 +14,14 @@ This repository contains my implementations and notes as I reproduce and expand 
 
 ---
 
-### 📂 Folder Structure
+### 🧩 Learning Goal
+To master LLM internals by building every component manually — tokenization, self-attention, pretraining, and instruction fine-tuning.
+
+---
+
+### 📅 Week 1 Focus
+- Rebuild Karpathy GPT from scratch
+- Document architecture in notes
+- Commit daily progress
+
+
